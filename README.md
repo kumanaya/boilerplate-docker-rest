@@ -1,5 +1,7 @@
 # boilerplate-docker-rest
 
+![Banner](https://github.com/kumanaya/boilerplate-docker-rest/blob/master/media/banner.png?raw=true)
+
 Docker Rest Boilerplate is a back-end template for building fast, scalable and adaptable server.
 
 This project is the simple structure, so you're free to architect your code in the way that you want.
@@ -7,6 +9,8 @@ This project is the simple structure, so you're free to architect your code in t
 ## About This Repository
 
 The project is builded in node with typescript, express, docker and NGINX using load balance for scalable API server.
+
+![Terminal](https://github.com/kumanaya/boilerplate-docker-rest/blob/master/media/terminal.png?raw=true)
 
 ## Quick start
 - Add. .env file inside the app folder
