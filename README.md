@@ -16,18 +16,14 @@ The project is builded in node with typescript, express, docker and NGINX using 
 - ```--scale api={quantity}``` is the number of servers running.
 
 ```
-npx {COMING_SOON} backend-node
-
-cd backend-node
+cd your-project
 
 docker compose up --scale api=2
 ```
 ### Running the server in local:
 - It's necessary node and npm in your environment.
 ```
-npx {SON} backend-node
-
-cd backend-node/app
+cd your-project/app
 
 npm install
 npm run dev
